@@ -1,5 +1,5 @@
 <p align="center">
-<img src="C:\Users\Admin\Pictures\Screenshots\Screenshot (84).png" width="100%">
+<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
 </p>
 
 <p align="center">
