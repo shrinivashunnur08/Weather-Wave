@@ -14,3 +14,9 @@
 ```
 npm i && npm start
 ```
+## Env Variables
+
+```
+SKIP_PREFLIGHT_CHECK=true
+key = "{Enter your API Key }"
+```
